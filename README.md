@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris Aung
-- 👀 I’m a full-stack developer specialized in HTML, CSS, JS. Learning 
+- 👀 I’m a full-stack developer specialized in HTML, CSS, JavaScript, Java, Python, C++. 
 - 🌱 I’m currently learning NodeJS, Javascript, Angular, React, Python, AWS.
 - 💞️ I’m looking to collaborate on full-stack web development projects, cloud projects.
 - 📫 Contact me at my email ...
