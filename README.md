@@ -1,16 +1,21 @@
-- 👋 Hi, I’m Chris Aung
-- 👀 I’m a full-stack developer specialized in HTML, CSS, JavaScript, Java, Python, C++. 
-- 🌱 I’m currently learning NodeJS, Javascript, Angular, React, Python, AWS.
-- 💞️ I’m looking to collaborate on full-stack web development projects, cloud projects.
-- 📫 Contact me at my email ...
+# 👋 Hi, I’m Chris Aung 
 
-# Chris Portfolio
+I'm a **Full-Stack Developer** specializing in HTML, CSS, JavaScript, Java, Python, and C++. Currently, 
+I'm enhancing my skills in NodeJS, JavaScript, Angular, React, Python, and AWS. Looking for collaboration in full-stack and cloud projects.
 
-- 🌐 [Personal Website](#https://chrisaung11.github.io/portfolio/)
-- 📫 [LinkedIn](#https://www.linkedin.com/in/kkaungllc/)
-- ✉️ Email:
+📧 **Contact**: [chriscodes11@gmail.com](mailto:chriscodes11@gmail.com)
 
-## Table of Contents
+---
+
+## Quick Links
+
+- 🌐 [Personal Website](https://chrisaung11.github.io/portfolio/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/kkaungllc/)
+- 📧 **Email**: chriscodes11@gmail.com
+
+---
+
+## 📖 Table of Contents
 
 - [Front-End Projects](#front-end-projects)
 - [Back-End Projects](#back-end-projects)
@@ -20,58 +25,41 @@
 - [Open Source Contributions](#open-source-contributions)
 
 ---
-## Below are the Projects I am currently working on in my free time.
-### Front-End Projects
 
-#### JavaScript
+## 🎨 Front-End Projects
 
-- [Portfolio Website]
-- [To-Do List App]
+### JavaScript
 
-#### React
+- **Note Taker**: A user-friendly app for note-taking. Features include emailing notes and exporting as PDF.
 
-- [React Chat App]
----
+### React
 
-### Back-End Projects
-
-#### Node.js
-
-- [RESTful API]
-- [Authentication Service]
-
-#### Python
-
-- [Flask API]
----
-
-### Database Projects
-
-#### MySQL
-
-- [Blogging Platform]
-
-#### MongoDB
-
-- [E-commerce Cart]
+- **Netflix Mock UI**: A project to replicate and innovate upon the Netflix UI.
 
 ---
 
-### API Projects
+## 🛠 Back-End Projects
 
-- [Weather App]
-- [Social Media Dashboard]
+### Node.js
+
+- **Calendar API**: Building a personalized calendar API, seeking more control than what Google Calendar offers.
+
+### Python
+
+- **Chat Server**: A real-time chat server using WebSockets.
 
 ---
 
-### Mixed Language Projects
+## 🗃 Database Projects
 
-- [E-commerce Site 
+### MySQL
+
+- **Inventory**: A household inventory management system to track products, groceries, and personalized items.
 
 ---
 
-### Open Source Contributions
+## 🌐 API Projects
 
-- [Open Source Project 1]
-- [Open Source Project 2]
+- **Stock Tracker**: A dashboard for monitoring various stock prices in real-time.
 
+---
