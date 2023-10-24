@@ -1,7 +1,12 @@
 # 👋 Hi, I’m Chris Aung 
+💼 I am a **Full-Stack Developer**.<br>
+👨‍💻 Expert in JavaScript, HTML, CSS, Python, Front-End Development<br>
+📊 Enhancing skills in Node JS, React, Angular, Python, AWS<br>
+🌍 Fluent in English, Mandarin, Japanese, Burmese<br>
+💻 Programming degree, Mount San Antonio College<br>
+🎓 B.S, University of California, Davis<br>
+♟️ Chess Enthusiast<br>
 
-I'm a **Full-Stack Developer** specializing in HTML, CSS, JavaScript, Java, Python, and C++. Currently, 
-I'm enhancing my skills in NodeJS, JavaScript, Angular, React, Python, and AWS. Looking for collaboration in full-stack and cloud projects.
 
 📧 **Contact**: [chriscodes11@gmail.com](mailto:chriscodes11@gmail.com)
 
