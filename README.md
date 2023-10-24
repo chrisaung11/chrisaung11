@@ -11,8 +11,6 @@ I'm enhancing my skills in NodeJS, JavaScript, Angular, React, Python, and AWS. 
 
 - 🌐 [Personal Website](https://chrisaung11.github.io/portfolio/)
 - 📫 [LinkedIn](https://www.linkedin.com/in/kkaungllc/)
-- 📧 **Email**: chriscodes11@gmail.com
-
 ---
 
 ## 📖 Table of Contents
@@ -23,7 +21,7 @@ I'm enhancing my skills in NodeJS, JavaScript, Angular, React, Python, and AWS. 
 - [API Projects](#api-projects)
 ---
 
-# Ongoing Projects List: Some May Be Completed and Available in My Repositories
+# Ongoing Projects List: 
 
 ## 🎨 Front-End Projects
 
@@ -45,7 +43,7 @@ I'm enhancing my skills in NodeJS, JavaScript, Angular, React, Python, and AWS. 
 
 ### Python
 
-- **Chat Server**: A real-time chat server using WebSockets. To use this Chat Server with your friends or work group, deploy it on a cloud platform and share the public IP or domain with your group. Ensure the firewall allows WebSocket connections and consider adding authentication for security. Once set up, your group can enjoy real-time chatting.
+- **Chat Server**: A real-time chat server using WebSockets. Deploy it on a cloud platform and share the public IP or domain with your organization. Ensure the firewall allows WebSocket connections and consider adding authentication for security. Once set up, your group can enjoy real-time chatting.
 
 ---
 
