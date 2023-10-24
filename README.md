@@ -21,10 +21,9 @@ I'm enhancing my skills in NodeJS, JavaScript, Angular, React, Python, and AWS. 
 - [Back-End Projects](#back-end-projects)
 - [Database Projects](#database-projects)
 - [API Projects](#api-projects)
-- [Mixed Language Projects](#mixed-language-projects)
-- [Open Source Contributions](#open-source-contributions)
-
 ---
+
+# Ongoing Projects List: Some May Be Completed and Available in My Repositories
 
 ## 🎨 Front-End Projects
 
